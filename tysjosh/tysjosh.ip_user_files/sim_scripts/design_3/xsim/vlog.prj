@@ -1,0 +1,6 @@
+verilog xil_defaultlib  \
+"../../../bd/design_3/sim/design_3.v" \
+
+verilog xil_defaultlib "glbl.v"
+
+nosort
